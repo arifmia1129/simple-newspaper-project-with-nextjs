@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Scientists Discover New Species in Amazon Rainforest",
+    "description": "A team of biologists has identified a new species of frog in the heart of the Amazon rainforest...",
+    "publicDate": "2023-08-20",
+    "reporterName": "Linda Martinez",
+    "newsPlace": "Amazon Rainforest",
+    "imageUrl": "https://images.unsplash.com/photo-1585719022717-87adb5bc279d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Tech Company Unveils Next-Generation Smartphone",
+    "description": "In a press event, XYZ Tech announced its latest smartphone model featuring cutting-edge technology...",
+    "publicDate": "2023-08-18",
+    "reporterName": "David Johnson",
+    "newsPlace": "Tech Expo",
+    "imageUrl": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1112&q=80"
+  },
+  {
+    "id": 3,
+    "title": "World Leaders Gather for Climate Summit",
+    "description": "Leaders from around the globe have convened to address pressing issues related to climate change...",
+    "publicDate": "2023-08-17",
+    "reporterName": "Sophia Lee",
+    "newsPlace": "United Nations Headquarters",
+    "imageUrl": "https://images.unsplash.com/photo-1511578314322-379afb476865?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80"
+  },
+  {
+    "id": 4,
+    "title": "New Study Reveals Surprising Health Benefits of Chocolate",
+    "description": "Researchers have found that moderate chocolate consumption may have positive effects on cardiovascular health...",
+    "publicDate": "2023-08-15",
+    "reporterName": "James Smith",
+    "newsPlace": "Research Institute",
+    "imageUrl": "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Artificial Intelligence Takes Center Stage at Tech Conference",
+    "description": "The latest advancements in artificial intelligence were showcased at the annual tech conference...",
+    "publicDate": "2023-08-12",
+    "reporterName": "Emily Anderson",
+    "newsPlace": "Tech Conference Center",
+    "imageUrl": "https://images.unsplash.com/photo-1585719022717-87adb5bc279d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Local Community Comes Together for Charity Event",
+    "description": "Residents volunteered their time and resources to support a charity event aimed at helping the less fortunate...",
+    "publicDate": "2023-08-10",
+    "reporterName": "Daniel Garcia",
+    "newsPlace": "Community Center",
+    "imageUrl": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1112&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Historic Monument Celebrates 100 Years",
+    "description": "A grand ceremony marked the centennial anniversary of a historic monument that holds cultural significance...",
+    "publicDate": "2023-08-08",
+    "reporterName": "Isabella Taylor",
+    "newsPlace": "Heritage Site",
+    "imageUrl": "https://images.unsplash.com/photo-1511578314322-379afb476865?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80"
+  },
+  {
+    "id": 8,
+    "title": "New Book Release: Bestselling Author's Latest Novel",
+    "description": "Readers are eager to get their hands on the highly anticipated new novel from an acclaimed author...",
+    "publicDate": "2023-08-05",
+    "reporterName": "Oliver Brown",
+    "newsPlace": "Local Bookstore",
+    "imageUrl": "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80"
+  },
+  {
+    "id": 9,
+    "title": "Fashion Show Highlights Sustainable Clothing Designs",
+    "description": "Designers showcased their eco-friendly fashion creations at a runway show focused on sustainability...",
+    "publicDate": "2023-08-03",
+    "reporterName": "Ava Wilson",
+    "newsPlace": "Fashion Show Venue",
+    "imageUrl": "https://images.unsplash.com/photo-1585719022717-87adb5bc279d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 10,
+    "title": "Major Traffic Project Aims to Improve City Infrastructure",
+    "description": "City officials have launched a major traffic project to alleviate congestion and improve transportation...",
+    "publicDate": "2023-08-01",
+    "reporterName": "Noah Thomas",
+    "newsPlace": "City Hall",
+    "imageUrl": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1112&q=80"
+  }
+]
