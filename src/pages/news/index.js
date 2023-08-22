@@ -2,6 +2,7 @@ import RootLayout from "@/components/Layouts/RootLayout";
 import { Card, Col, Row } from "antd";
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
 import React, { useEffect, useState } from "react";
 
 export default function News() {
@@ -34,6 +35,9 @@ export default function News() {
                 <p style={{ color: "gray", marginTop: -10 }}>
                   {item.publicDate}
                 </p>
+              </div>
+              <div>
+                <Link href={`news/${item.id}`}>Details...</Link>
               </div>
             </Card>
           </Col>
